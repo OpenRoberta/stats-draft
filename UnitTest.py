@@ -5,7 +5,7 @@
 
 
 import unittest
-import Scriptohnedoc as fun
+import DataAnalytics as fun
 
 
 # In[34]:
