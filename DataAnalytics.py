@@ -7,7 +7,7 @@ from difflib import SequenceMatcher
 import time
 import argparse
 
-use_console = False
+use_console = True
 
 if use_console:
     parser = argparse.ArgumentParser(prog="Statistics Analytics",description="Analyse the statisticLog. Process arguments to specify the analysis")
